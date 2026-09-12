@@ -1,0 +1,6 @@
+@Chico91226_HostAddress = http://localhost:5007
+
+GET {{Chico91226_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
